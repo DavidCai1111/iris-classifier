@@ -1,0 +1,24 @@
+{
+  "name": "iris-classifier",
+  "version": "1.0.0",
+  "description": "Classify iris by Keras.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidCai1993/iris-classifier.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidCai1993/iris-classifier/issues"
+  },
+  "homepage": "https://github.com/DavidCai1993/iris-classifier#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "keras-js": "^1.0.3",
+    "neat-csv": "^2.1.0"
+  }
+}
