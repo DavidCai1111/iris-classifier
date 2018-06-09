@@ -1,7 +1,7 @@
 {
   "name": "iris-classifier",
   "version": "1.0.0",
-  "description": "Classify iris by Keras.js",
+  "description": "Classify iris by tensorflow.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

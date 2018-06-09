@@ -1,2 +1,2 @@
 # iris-classifier
-Classify iris by Keras.js
+Classify iris by tensorflow.js
